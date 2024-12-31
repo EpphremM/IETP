@@ -296,7 +296,7 @@
     </div>
 
     <!-- Right Section: Social Media Links -->
-    <div class="flex space-x-6">
+    <div class="flex space-x-6 p-6">
       <a href="https://facebook.com" target="_blank" class="text-blue-600 hover:text-blue-800">
         <i class="fab fa-facebook-f text-2xl"></i>
       </a>
@@ -308,7 +308,7 @@
       </a>
     </div>
     <div class="mb-4 sm:mb-0">
-      <p class="text-lg text-blue-800">© 2024 Modern, All Rights Reserved</p>
+      <p class="text-lg text-left p-2 text-blue-800">© 2024 Modern, All Rights Reserved</p>
     </div>
   </div>
 </footer>
@@ -336,7 +336,7 @@ export default {
                 },
                 {
                     id: 2,
-                    name: 'Yeabsra Alemayehu',
+                    name: 'Yeabsra Alemayehu',            
                     departmentId: 'ETS1656/14',
                     role: 'Electrical Engineer',
                     phone: '+251946333013',
